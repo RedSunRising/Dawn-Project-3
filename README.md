@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project-3
 
 ![A screenshot from the app](https://raw.githubusercontent.com/DGMD-E-15/Project-3/master/README_media/Screenshot.png)
@@ -63,3 +64,7 @@ You'll notice that this app sucks.  Which is to say, the user experience is very
 ## Questions?
 
 Please either [file an issue on this repository](https://github.com/DGMD-E-15/Project-3/issues/new) if you have a question _which does not concern your code_, or please file an issue on your own repository if you'd like us to take a look at a problem you have.
+=======
+Dawn-Project-3
+==============
+>>>>>>> FETCH_HEAD
